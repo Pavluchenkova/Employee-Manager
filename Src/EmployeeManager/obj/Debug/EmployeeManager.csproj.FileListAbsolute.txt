@@ -1,0 +1,60 @@
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\EmployeeManager.dll.config
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\EmployeeManager.dll
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\EmployeeManager.pdb
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\Antlr3.Runtime.dll
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\Microsoft.Web.Infrastructure.dll
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\Newtonsoft.Json.dll
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\System.Web.Helpers.dll
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\System.Web.Mvc.dll
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\System.Web.Optimization.dll
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\System.Web.Razor.dll
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\System.Web.WebPages.Deployment.dll
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\System.Web.WebPages.dll
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\System.Web.WebPages.Razor.dll
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\WebGrease.dll
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\System.Web.Helpers.xml
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\System.Web.Mvc.xml
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\System.Web.Optimization.xml
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\System.Web.Razor.xml
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\System.Web.WebPages.xml
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\System.Web.WebPages.Deployment.xml
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\System.Web.WebPages.Razor.xml
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\Newtonsoft.Json.xml
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\Antlr3.Runtime.pdb
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.csprojResolveAssemblyReference.cache
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.dll
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.pdb
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\EntityFramework.dll
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\EntityFramework.SqlServer.dll
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\EntityFramework.xml
+c:\users\pavlyuchenkova\documents\visual studio 2013\Projects\EmployeeManager\EmployeeManager\bin\EntityFramework.SqlServer.xml
+G:\EmployeeManager\EmployeeManager\bin\EmployeeManager.dll.config
+G:\EmployeeManager\EmployeeManager\bin\EmployeeManager.dll
+G:\EmployeeManager\EmployeeManager\bin\EmployeeManager.pdb
+G:\EmployeeManager\EmployeeManager\bin\Antlr3.Runtime.dll
+G:\EmployeeManager\EmployeeManager\bin\EntityFramework.dll
+G:\EmployeeManager\EmployeeManager\bin\EntityFramework.SqlServer.dll
+G:\EmployeeManager\EmployeeManager\bin\Microsoft.Web.Infrastructure.dll
+G:\EmployeeManager\EmployeeManager\bin\Newtonsoft.Json.dll
+G:\EmployeeManager\EmployeeManager\bin\System.Web.Helpers.dll
+G:\EmployeeManager\EmployeeManager\bin\System.Web.Mvc.dll
+G:\EmployeeManager\EmployeeManager\bin\System.Web.Optimization.dll
+G:\EmployeeManager\EmployeeManager\bin\System.Web.Razor.dll
+G:\EmployeeManager\EmployeeManager\bin\System.Web.WebPages.Deployment.dll
+G:\EmployeeManager\EmployeeManager\bin\System.Web.WebPages.dll
+G:\EmployeeManager\EmployeeManager\bin\System.Web.WebPages.Razor.dll
+G:\EmployeeManager\EmployeeManager\bin\WebGrease.dll
+G:\EmployeeManager\EmployeeManager\bin\EntityFramework.xml
+G:\EmployeeManager\EmployeeManager\bin\EntityFramework.SqlServer.xml
+G:\EmployeeManager\EmployeeManager\bin\System.Web.Helpers.xml
+G:\EmployeeManager\EmployeeManager\bin\System.Web.Mvc.xml
+G:\EmployeeManager\EmployeeManager\bin\System.Web.Optimization.xml
+G:\EmployeeManager\EmployeeManager\bin\System.Web.Razor.xml
+G:\EmployeeManager\EmployeeManager\bin\System.Web.WebPages.xml
+G:\EmployeeManager\EmployeeManager\bin\System.Web.WebPages.Deployment.xml
+G:\EmployeeManager\EmployeeManager\bin\System.Web.WebPages.Razor.xml
+G:\EmployeeManager\EmployeeManager\bin\Newtonsoft.Json.xml
+G:\EmployeeManager\EmployeeManager\bin\Antlr3.Runtime.pdb
+G:\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.csprojResolveAssemblyReference.cache
+G:\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.dll
+G:\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.pdb

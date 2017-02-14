@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+
+namespace EmployeeManager.Controllers
+{
+    public class HomeController : Controller
+    {
+        public ActionResult Index()
+        {
+            return RedirectToAction("Index", "Employees");
+        }          
+
+        public ActionResult Contact()
+        {          
+
+            return View();
+        }
+    }
+}
